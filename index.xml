@@ -9,6 +9,19 @@
     <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>testing</title>
+      <link>/posts/automation-script-for-automating-my-blog-post/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/automation-script-for-automating-my-blog-post/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020241218200620.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;python script is on the way&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020241218200620.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;python script is on the way&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>testing</title>
       <link>/posts/my-first-blog-post-note----test/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
       
