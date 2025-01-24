@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Irahblogs</title>
       <link>/tags/irahblogs/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/irahblogs/</guid>
       <description></description>
@@ -20,9 +20,19 @@
     <item>
       <title>Noobie</title>
       <link>/tags/noobie/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/tags/noobie/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Subbu</title>
+      <link>/tags/subbu/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/subbu/</guid>
       <description></description>
       <content></content>
     </item>
